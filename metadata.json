@@ -1,0 +1,6 @@
+{
+  "name": "Unity 6 DSA Legends Workspace",
+  "description": "An interactive workspace for Unity 6 (LTS) 'DSA Legends: Rise of the Algorithm', showcasing its scalable folder structure, SOLID C# scripts, Firebase integration guide, and a high-fidelity cyberpunk UI Main Menu simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
